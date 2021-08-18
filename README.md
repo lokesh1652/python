@@ -1,7 +1,7 @@
 # python
 ---
 
-## day1
+## Day1
 ### Even number or Odd
 ```python
 num=int(input("enter number:"))
