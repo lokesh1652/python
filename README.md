@@ -28,7 +28,9 @@ if temp==reverse:
     print(temp,'is a palindrome number')
 else:
     print(temp,'is not a palindrome number')
- ```
+```
+---
+## Day2
 ### swapping two numbers
 ---
 ```python
