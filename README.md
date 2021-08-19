@@ -30,7 +30,7 @@ else:
     print(temp,'is not a palindrome number')
  ```
 ### swapping two numbers
-
+---
 ```python
 a=10
 b=20
