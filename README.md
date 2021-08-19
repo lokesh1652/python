@@ -57,4 +57,12 @@ elif b>c:
     print(b,'is greater')
 else:
     print(c,'is greater')
-```    
+```
+---
+### odd numbers from 1 to n
+``` python
+n=int(input('enter n value ')
+for i in range(1,n):
+    if i%2!=0:
+        print(i)
+```
