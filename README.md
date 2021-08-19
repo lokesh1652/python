@@ -29,3 +29,14 @@ if temp==reverse:
 else:
     print(temp,'is not a palindrome number')
  ```
+### swapping two numbers
+
+```python
+a=10
+b=20
+print('Before swapping a :',a,'&& b:',b)
+temp=a 
+a=b 
+b=temp 
+print('After swapping a :',a,'&& b:',b)
+```
