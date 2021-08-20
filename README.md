@@ -71,3 +71,19 @@ n=int(input("Enter the number: \n"))
 for i in range(1,n,2):
     print(i)
 ```
+---
+## Day3
+
+### Even numbers from 1 to n
+``` python
+n=int(input('enter n value: '))
+for i in range(0,n):
+    if i%2==0:
+        print(i)       
+```
+``` python
+num=int(input("enter a num value: "))
+for i in range(0,num,2):
+    print(i)
+```    
+  
