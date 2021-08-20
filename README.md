@@ -86,4 +86,19 @@ num=int(input("enter a num value: "))
 for i in range(0,num,2):
     print(i)
 ```    
+---
+### Linear search
+``` python
+
+array=[1,2,3,4,5,6,9]
+index=-1
+num=int(input('enter a number: '))
+for i in range(len(array)):
+    if num==array[i]:
+        print(num,'is at index',i)
+        index=i
+        break
+if index<0:
+    print('element is not found')
+```
   
