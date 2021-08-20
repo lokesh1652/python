@@ -115,4 +115,16 @@ for i in range(len(list1)):
 print(even)
 print(odd)
 ```
+### double each element in array
+``` python
+list1=[1,3,5,8,19,4,10,12,16,13]
+list2=[]
+for i in range(len(list1)):
+    list2.append(list1[i]*2)
+print(list2)
+```
+    
+    
+    
+
   
