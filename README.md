@@ -101,4 +101,18 @@ for i in range(len(array)):
 if index<0:
     print('element is not found')
 ```
+---
+### separate odd and even numbers from an array
+``` python
+list1=[1,3,5,8,19,4,10,12,16,13]
+even=[]
+odd=[]
+for i in range(len(list1)):
+    if list1[i]%2==0:
+        even.append(list1[i])
+    else:
+        odd.append(list1[i])
+print(even)
+print(odd)
+```
   
